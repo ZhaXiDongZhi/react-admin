@@ -1,8 +1,15 @@
+/*
+  登陆路由组件
+* */
+
 import React from "react";
 export default class index extends  React.Component {
+
     render(){
         return(
-            <div>我是首页</div>
+            <div>
+                admin
+            </div>
         )
     }
 }
